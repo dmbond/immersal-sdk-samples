@@ -61,6 +61,7 @@ MonoBehaviour:
   - {fileID: 8327088644672218751}
   - {fileID: -4867913781225012277}
   - {fileID: 9020315658461801293}
+  - {fileID: 8782836726463180746}
   - {fileID: 708368499339606823}
   - {fileID: -8644291855617184209}
   - {fileID: 8477863368809230186}
@@ -69,8 +70,15 @@ MonoBehaviour:
   - {fileID: 1939977282046172398}
   - {fileID: 286393511673261595}
   - {fileID: 342368449769253386}
+  - {fileID: -3963458409416647234}
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-7008814962639776586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83,9 +91,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: WebGL
   m_EditorClassIdentifier: 
-  features: []
+  features:
+  - {fileID: 6791547216346000848}
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-6616916579572642499
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -286,6 +301,7 @@ MonoBehaviour:
   - {fileID: -5988498682164026970}
   - {fileID: 5338527728287933877}
   - {fileID: -2984880623097416068}
+  - {fileID: 8747671338426582379}
   - {fileID: -5125856000114461602}
   - {fileID: 5454131008828635658}
   - {fileID: -3438323842224682488}
@@ -293,8 +309,15 @@ MonoBehaviour:
   - {fileID: 1164049142967290962}
   - {fileID: -999429504510671454}
   - {fileID: -243983671016743933}
+  - {fileID: -4876990667426549249}
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-3438323842224682488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -373,6 +396,14 @@ MonoBehaviour:
     manifestName: quest3s
     enabled: 1
   forceRemoveInternetPermission: 1
+  symmetricProjection: 0
+  foveatedRenderingApi: 0
+  systemSplashScreen: {fileID: 0}
+  optimizeBufferDiscards: 1
+  lateLatchingMode: 0
+  lateLatchingDebug: 0
+  optimizeMultiviewRenderRegions: 0
+  spacewarpMotionVectorTextureFormat: 0
 --- !u!114 &-2523749483554411080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -418,9 +449,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: VisionOS
   m_EditorClassIdentifier: 
-  features: []
+  features:
+  - {fileID: -5373140983364117087}
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-1735134296393762733
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -473,9 +511,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: iPhone
   m_EditorClassIdentifier: 
-  features: []
+  features:
+  - {fileID: -3328415156865315716}
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-243983671016743933
 MonoBehaviour:
   m_ObjectHideFlags: 0
